@@ -1,0 +1,281 @@
+
+.wrapper-course-material ol.course-tabs li a.active{
+    background: rgb(146, 146, 146) !important;
+    border-radius: 0px !important;
+}
+
+
+body.view-in-course .wrapper-course-material .course-material, body.view-in-course .wrapper-preview-menu .preview-menu{
+    padding-left: 10px !important;
+}
+
+
+body.view-in-course {
+    -webkit-font-smoothing: antialiased  !important;
+}
+
+body.view-in-course .course-wrapper, body.view-in-course .profile-wrapper, body.view-in-course .instructor-dashboard-wrapper-2, body.view-in-course .wiki-wrapper, body.view-in-course .teams-wrapper, body.view-in-course .static_tab_wrapper{
+      border-radius: 0px !important;
+    border-color: rgb(241, 241, 241) !important;
+}
+
+
+.course-index .accordion .course-navigation .button-chapter:hover, .course-index .accordion .course-navigation .button-chapter:focus {
+    background: rgba(59, 147, 196, 0.88) !important;
+}
+
+
+.course-index .accordion .course-navigation .button-chapter.is-open {
+    background: rgb(146, 146, 146) !important;
+    box-shadow: none !important;
+    color: #ffffff !important;
+}
+
+
+.course-index .accordion .course-navigation .button-chapter:hover, .course-index .accordion .course-navigation .button-chapter:focus {
+    background: rgba(59, 147, 196, 0.8) !important;
+}
+
+
+
+.course-index .accordion .course-navigation .button-chapter {
+    -webkit-transition: all 3s ease-in-out !important;
+    -moz-transition: all 3s ease-in-out !important;
+    transition: all 3s ease-in-out !important;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    background-color: rgba(255,255,255,0.5) !important;
+    background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.5),rgba(255,255,255,0)) !important;
+    background-image: linear-gradient(to bottom,rgba(255,255,255,0.5),rgba(255,255,255,0)) !important;
+    -webkit-transition: background-color 0.1s linear 0s !important;
+    -moz-transition: background-color 0.1s linear 0s !important;
+    transition: background-color 0.1s linear 0s !important;
+    width: 100% !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    background-color: #f6f6f6 !important;
+    color: #0078b0 !important;
+    -webkit-font-smoothing: subpixel-antialiased !important;
+    background: #ffffff !important;
+    color: #529fcb !important;
+    border-bottom: 1px solid rgba(228, 228, 228, 0.7) !important;
+}
+
+
+.course-index .accordion .course-navigation .button-chapter.active .group-heading {
+    color: #ffffff !important;
+}
+
+.course-index .accordion .course-navigation .chapter-content-container .chapter-menu {
+    padding: 0 0px !important;
+    overflow: hidden !important;
+}
+
+.course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item a {
+    position: relative !important;
+    padding: 5px 10px 5px 30px !important;
+    border-radius: 0px !important;
+    font-family: "Open Sans",Verdana,Geneva,sans-serif,sans-serif !important;
+    color: #3c3c3c !important;
+}
+
+.course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item {
+    margin: 0px 0 !important;
+    background: inherit !important;
+}
+
+.course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item:last-of-type {
+    padding-bottom: 0px !important;
+}
+
+.course-index .accordion .course-navigation .button-chapter.active .group-heading {
+    color: inherit !important;
+}
+
+.course-index .accordion .course-navigation .button-chapter:hover, .course-index .accordion .course-navigation .button-chapter:focus {
+    background: rgb(146, 146, 146) !important;
+    color: #ffffff !important;
+}
+
+.course-index .accordion .course-navigation .button-chapter .group-heading .icon {
+    position: absolute !important;
+    left: 12px !important;
+    top: 20px !important;
+    font-size: 0.875em !important;
+    color: #c8c8c8 !important;
+}
+
+.course-index .accordion .course-navigation .button-chapter .group-heading {
+    position: relative !important;
+    padding: 15px 20px 15px 30px !important;
+    text-align: left !important;
+}
+
+.course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item {
+    margin: 0px 0 !important;
+    background: inherit !important;
+    border-bottom: 1px solid rgba(241, 241, 241, 0.49) !important;
+}
+
+.course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item a{
+    padding: 10px !important;
+}
+
+.course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item a:hover, .course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item div.info-wrapper section.handouts ol li div.hitarea:hover+h4, div.info-wrapper section.handouts ol li .course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item div.hitarea:hover+h4, .course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item div.info-wrapper section.handouts ol li div.hitarea:focus+h4, div.info-wrapper section.handouts ol li .course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item div.hitarea:focus+h4, .course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item a:focus{
+    background: rgba(241, 241, 241, 0.49) !important;
+}
+
+.xmodule_display.xmodule_SequenceModule .sequence-nav-button.button-previous {
+    -webkit-border-top-left-radius: 35px !important;
+    -moz-border-topleft-radius: 35px !important;
+    border-top-left-radius: 35px !important;
+    -webkit-border-top-right-radius: 0 !important;
+    -moz-border-topright-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    -webkit-border-bottom-right-radius: 0 !important;
+    -moz-border-bottomright-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    -webkit-border-bottom-left-radius: 35px !important;
+    -moz-border-bottomleft-radius: 35px !important;
+    border-bottom-left-radius: 0px !important;
+    left: 0 !important;
+    border-radius: 0px !important;
+    background: #ffffff !important;
+    box-shadow: none !important;
+    border: 1px solid #ababab !important;
+    border-right: 0px !important;
+}
+
+.xmodule_display.xmodule_SequenceModule .sequence-nav-button.button-next {
+    -webkit-border-top-left-radius: 0 !important;
+    -moz-border-topleft-radius: 0 !important;
+    border-top-left-radius: 0 !important;
+    -webkit-border-top-right-radius: 35px !important;
+    -moz-border-topright-radius: 35px !important;
+    border-top-right-radius: 35px !important;
+    -webkit-border-bottom-right-radius: 35px !important;
+    -moz-border-bottomright-radius: 35px !important;
+    border-bottom-right-radius: 35px !important;
+    -webkit-border-bottom-left-radius: 0 !important;
+    -moz-border-bottomleft-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    right: 0 !important;
+    border-radius: 0px !important;
+    background: #ffffff !important;
+    box-shadow: none !important;
+    border: 1px solid #ababab !important;
+}
+
+.xmodule_display.xmodule_SequenceModule .sequence-nav ol {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 0px !important;
+    width: 100% !important;
+    outline: none !important;
+}
+
+.xmodule_display.xmodule_SequenceModule .sequence-nav .right-shadow {
+    background-color: rgba(0,0,0,0.2) !important;
+    background-image: -webkit-linear-gradient(right, rgba(0,0,0,0.2),transparent) !important;
+    background-image: linear-gradient(to left,rgba(0,0,0,0.2),transparent) !important;
+    position: absolute !important;
+    top: 0 !important;
+    right: 0 !important;
+    width: 20px !important;
+    height: 46px !important;
+    background-color: transparent !important;
+    pointer-events: none !important;
+}
+
+.xmodule_display.xmodule_VideoModule .video {
+    background: #e3e3e3 !important;
+    margin: 0 -12px !important;
+    padding: 12px !important;
+    border-radius: 0px !important;
+    outline: none !important;
+}
+
+.xmodule_display.xmodule_SequenceModule .sequence-nav .sequence-list-wrapper {
+    background-color: #ddd !important;
+    background-image: -webkit-linear-gradient(top, #ddd,#eee) !important;
+    background-image: linear-gradient(to bottom,#ddd,#eee) !important;
+    position: relative !important;
+    border: 1px solid #c8c8c8 !important;
+    height: 44px !important;
+    margin: 0 40px !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset !important;
+    background: #ffffff !important;
+}
+
+.xmodule_display.xmodule_SequenceModule .sequence-nav ol li{
+    border-right: 2px solid #c8c8c8 !important;
+}
+
+.view-student-notes .placeholder-title, .course-index .accordion .course-navigation .button-chapter .group-heading, .view-student-notes .note-group .course-title, .view-student-notes .note-group .tags-title, .view-teams .create-team legend, .view-teams .team-actions .title, .idash-section .message-title, .instructor-dashboard-wrapper-2 section.idash-section#cohort_management .cohort-management-group-add .form-title {
+    font-size: 12px !important;
+    line-height: 20px !important;
+}
+
+.btn-link, .proctored_exam_status .exam-timer .exam-button-turn-in-exam, .course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item a {
+    font-size: 12px !important;
+    line-height: 20.72px !important;
+}
+
+.course-index .accordion .course-navigation .chapter-content-container .chapter-menu .menu-item a {
+    position: relative !important;
+    padding: 5px 10px 5px 30px !important;
+    border-radius: 0px !important;
+    font-family: "Open Sans",Verdana,Geneva,sans-serif,sans-serif !important;
+    color: rgb(132, 132, 132) !important;
+}
+
+.container>div {
+    table-layout: fixed !important;
+    width: 100% !important;
+    border-radius: 3px !important;
+    border: 1px solid rgb(241, 241, 241) !important;
+    background: #fff !important;
+    box-shadow: none !important;
+}
+
+.search-bar .search-field{
+    border-radius: 0px !important;
+    outline: none !important;
+}
+
+.xmodule_display.xmodule_CapaModule div.problem .choicegroup label, .xmodule_display.xmodule_CapaModule div.problem .choicetextgroup label{
+    border-radius: 0px !important;
+}
+
+.light-button, div.history-controls input[type="submit"], a.light-button, .gray-button, input[type="reset"], input[type="submit"], input[type="button"], button, .button, form input[type="reset"], form input[type="submit"], form input[type="button"], form button, form .button, .xmodule_display.xmodule_LTIModule div.lti .wrapper-lti-link .lti-link .link_lti_new_window{
+    background: #efefef !important;
+    border-radius: 0px !important;
+    border: 1px solid #adadad !important;
+    box-shadow: none !important;
+}
+
+.wrap-instructor-info .instructor-info-action{
+    border-radius: 0px !important;
+}
+
+.xmodule_display.xmodule_CapaModule .problem .capa_inputtype.textline input, .xmodule_display.xmodule_CapaModule .problem .inputtype.formulaequationinput input{
+    border-radius: 0px !important;
+    outline: none !important;
+}
+
+.xmodule_display.xmodule_CapaModule div.problem div div.equation span.math{
+    border-radius: 0px !important;
+}
+
+.xmodule_display.xmodule_SequenceModule .sequence-nav-button.disabled{
+    color: #d4d4d4 !important;
+}
