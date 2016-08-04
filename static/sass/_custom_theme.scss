@@ -194,6 +194,7 @@ body.view-in-course .course-wrapper, body.view-in-course .profile-wrapper, body.
     height: 46px !important;
     background-color: transparent !important;
     pointer-events: none !important;
+    display: none !important;
 }
 
 .xmodule_display.xmodule_VideoModule .video {
@@ -217,7 +218,11 @@ body.view-in-course .course-wrapper, body.view-in-course .profile-wrapper, body.
 }
 
 .xmodule_display.xmodule_SequenceModule .sequence-nav ol li{
-    border-right: 2px solid #c8c8c8 !important;
+    border-right: 1px solid #c8c8c8 !important;
+}
+
+.xmodule_display.xmodule_SequenceModule .sequence-nav ol li a{
+    width: auto !important;
 }
 
 .view-student-notes .placeholder-title, .course-index .accordion .course-navigation .button-chapter .group-heading, .view-student-notes .note-group .course-title, .view-student-notes .note-group .tags-title, .view-teams .create-team legend, .view-teams .team-actions .title, .idash-section .message-title, .instructor-dashboard-wrapper-2 section.idash-section#cohort_management .cohort-management-group-add .form-title {
