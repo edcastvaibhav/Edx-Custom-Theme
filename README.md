@@ -14,6 +14,7 @@ Also change “THEME_NAME”: “” to “THEME_NAME”: “custom_theme”.
   - source edxapp_env
   - cd /edx/app/edxapp/edx-platform
   - paver update_assets lms --settings=aws
+  - exit
   - sudo /edx/bin/supervisorctl restart edxapp: 
 9. After the server is restarted, changes for the custom theme should be reflected.
 
