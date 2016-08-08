@@ -205,6 +205,11 @@ body.view-in-course .course-wrapper, body.view-in-course .profile-wrapper, body.
     outline: none !important;
 }
 
+.xmodule_display.xmodule_VideoModule .video .video-wrapper .video-controls .control{
+    border: 0 !important;
+    background: #282c2e !important;
+}
+
 .xmodule_display.xmodule_SequenceModule .sequence-nav .sequence-list-wrapper {
     background-color: #ddd !important;
     background-image: -webkit-linear-gradient(top, #ddd,#eee) !important;
