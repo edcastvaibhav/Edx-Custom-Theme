@@ -261,11 +261,32 @@ body.view-in-course .course-wrapper, body.view-in-course .profile-wrapper, body.
     border-radius: 0px !important;
 }
 
-.light-button, div.history-controls input[type="submit"], a.light-button, .gray-button, input[type="reset"], input[type="submit"], input[type="button"], button, .button, form input[type="reset"], form input[type="submit"], form input[type="button"], form button, form .button, .xmodule_display.xmodule_LTIModule div.lti .wrapper-lti-link .lti-link .link_lti_new_window{
+.light-button, div.history-controls input[type="submit"], a.light-button, .gray-button, input[type="reset"], input[type="submit"], input[type="button"], button, .button, form input[type="reset"], form input[type="submit"], form input[type="button"], form button, form .button, .xmodule_display.xmodule_LTIModule div.lti .wrapper-lti-link .lti-link .link_lti_new_window, .btn-large{
     background: #efefef !important;
     border-radius: 0px !important;
     border: 1px solid #adadad !important;
     box-shadow: none !important;
+}
+
+section.wiki .btn.btn-primary, section.wiki .btn.btn-danger {
+    color: #333333 !important;
+    text-shadow: none !important;
+}
+
+.wiki-article p{
+    line-height: 24px !important;
+}
+
+section.wiki.history .accordion{
+    margin-top: 15px !important;
+}
+
+section.delete{
+    padding: 15px;
+}
+
+.profile-wrapper .course-info header.progress-certificates{
+    margin-bottom: 25px !important;
 }
 
 .wrap-instructor-info .instructor-info-action{
