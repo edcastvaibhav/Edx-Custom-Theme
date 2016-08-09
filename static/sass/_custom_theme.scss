@@ -268,9 +268,17 @@ body.view-in-course .course-wrapper, body.view-in-course .profile-wrapper, body.
     box-shadow: none !important;
 }
 
-section.wiki .btn.btn-primary, section.wiki .btn.btn-danger {
+section.wiki .btn.btn-primary {
     color: #333333 !important;
     text-shadow: none !important;
+}
+
+section.wiki .btn.btn-danger{
+    text-shadow: none !important;   
+    color: #444444 !important;
+    background: #efefef !important;
+    border-color: #fda9a9 !important;
+    box-shadow: none !important;
 }
 
 .wiki-article p{
